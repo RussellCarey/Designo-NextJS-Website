@@ -2,7 +2,7 @@
 A 6 page Front End Mentor challenge to practice making a website using Next JS.
 
 ![]()
-<img src="https://github.com/RussellCarey/Designo-NextJS-Website/blob/252f2aa7b61879819c67546090c529b25c95d59c/home.png" width="400">
+<img src="https://github.com/RussellCarey/Designo-NextJS-Website/blob/68ebf6f62d0edad7c14222d3e1b4be51d27cc8ef/home.png" width="400">
 
 ## Table of contents
 
