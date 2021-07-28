@@ -2,7 +2,7 @@
 A Front End Mentor challenge to practice making a website using Next JS.
 
 ![]()
-<img src="https://github.com/RussellCarey/Designo-NextJS-Website/home.png" width="400">
+<img src="https://github.com/RussellCarey/Designo-NextJS-Website/blob/252f2aa7b61879819c67546090c529b25c95d59c/home.png" width="400">
 
 ## Table of contents
 
@@ -17,11 +17,8 @@ A Front End Mentor challenge to practice making a website using Next JS.
 ## Technologies
 
 - React
-- React Native
-- Expo
-- Styled Components
-- React Navigation
-- Axios
+- Next JS
+- Styled components
 
 
 ## Languages
@@ -29,27 +26,22 @@ A Front End Mentor challenge to practice making a website using Next JS.
 
 ## Features
 
-- See images and information from SpaceX launches.
-- See information about their rockets, crew, capsules etc.
+- Recreation of a good looking website from a design document.
 
 
 ## Status
 
-Project is: IN PROGRESS. 
+Project is: COMPLETE. 
  
-This was my first react native project. I used it to practice actually making something simple using an API and styled components.   
-I look forward to getting into it more.
+This was my first Next JS project. I want to start building more websites so used the challenge to practice this.
 
 
 ## Features for future development
 
-- Finish the app with all the information accessible
-- Create a good splash screen that waits for the app to load.
-- Improve the UI
+- Add some back end? Maybe a blogging system with login etc.
 
 ## Inspiration
 
-I love SpaceX and space, I found they had an API so decided to try and make something simple.
 
 ## Contact
 Created by [@RussellCarey](https://twitter.com/russellcareyy) - feel free to contact me about the project
